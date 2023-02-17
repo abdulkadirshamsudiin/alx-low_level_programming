@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry - point
+ * main - Entry point
  *
  */
 
@@ -19,7 +19,7 @@ int main(void)
 		}
 	while
 		(c <= 'f') {
-			putchar(c)
+			putchar(c);
 			c++;
 		}
 	putchar('\n');
