@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Emty poit
+ * main - Entry - point
  *
  */
 
@@ -19,8 +19,8 @@ int main(void)
 		}
 	while
 		(c <= 'f') {
-			putchar(c);
-			 c++;
+			putchar(c)
+			c++;
 		}
 	putchar('\n');
 	return (0);
